@@ -23,6 +23,7 @@
 * [Dan Bader](www.dbader.org)
 * [geeks for geeks](www.geeksforgeeks.org)
 * [programiz](https://www.programiz.com)
+* [the codezine](https://www.thecodezine.com)
 * [rosettacode](https://rosettacode.org)
 * [tutorialpoint](https://www.tutorialspoint.com)
 * [adventures in machine learning](https://adventuresinmachinelearning.com)
